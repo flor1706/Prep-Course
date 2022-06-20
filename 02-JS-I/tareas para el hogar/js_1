@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variablesinstrumentos de cuerda
+Funciones (argumentos, return)
+Declaracionesif
+Valores booleanos ( true, false)
+
+
+variables: una variable es una forma de guardar algun dato como dentro de una cajita que lo contiene y si se lo pedimos la abre y nos lo muestra cuando es necesario.
+instrumentos de cuerda :los strings  son palabras o frase que queremos escribir en el programa siempre van entre comillas
+funciones :las funciones  son las formas que tenemos de  calcular  cambiar o hacer lo que queramos con las variables.el argumento de una funcion es lo que yo quiero reemplazar  o cambiar dando valor a la variable.
+el retorno en una funcion nos dice lo que va a mostrar esa funcion o si queremos que esta termine .
+declaraciones:las declaraciones es lo que nosotros queremos saber dentro de la funcion que se ejecuta.el if es una condicion que pone la funcion para mostrarnos de la forma que tiene que calcular o cambiar la variable que nosostros le pedimos
+valores booleanos:los valores booleanos son valores que nos dicen si algo es verdadero o falso depende la funcion o las condiciones que le pongamos dentro de la misma
