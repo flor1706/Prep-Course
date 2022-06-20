@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||,!,
+
+for : el for es un bucle ,un bucle es uan expresion que se usa de manera que se repita una determinada cantidad de veces,que se utiliza  para repetir la instrucc que queramos dar una determinada cantidad de veces.Generealmente lo usamos cuando sabemos la cantida de veces que vamos a querer que se repita.Este lo hace hasta que la condicion impuesta o la instruccion sea falsa
+&& : es un operador logico que se lee como "y" y solamente devuelve verdadero si las dos condiciones que se evaluan en el son verdaderos
+
+ ||: es un operador logico que se utiliza para comparar dos expresiones y devuelve el valor falso solamente cuando las dos expresiones son falsas
+ ! : este es una expresion que se utiliza para negar una afirmacion
